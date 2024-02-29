@@ -4,9 +4,9 @@
 
 ## Social Links
 
-- [![LinkedIn](https://image.flaticon.com/icons/png/512/61/61109.png)](https://www.linkedin.com/in/adeelabid0)
-- [![Indeed](https://image.flaticon.com/icons/png/512/174/174857.png)](https://profile.indeed.com/?hl=en_PK&co=PK&from=gnav-jobsearch--indeedmobile&_ga=2.107084098.153712197.1709223873-342645179.1701187074)
-- [![Instagram](https://image.flaticon.com/icons/png/512/87/87390.png)](https://www.instagram.com/adeelabid84?igsh=MW9sMndpMXUxaHpwbw==)
+- [![LinkedIn](https://image.flaticon.com/icons/png/512/174/174857.png)](https://www.linkedin.com/in/adeelabid0)
+- [![Indeed](https://image.flaticon.com/icons/png/512/2111/2111463.png)](https://profile.indeed.com/?hl=en_PK&co=PK&from=gnav-jobsearch--indeedmobile&_ga=2.107084098.153712197.1709223873-342645179.1701187074)
+- [![Instagram](https://image.flaticon.com/icons/png/512/2111/2111468.png)](https://www.instagram.com/adeelabid84?igsh=MW9sMndpMXUxaHpwbw==)
 - [Portfolio](https://adeel-abid.vercel.app/)
 
 
