@@ -4,10 +4,12 @@
 
 ## Social Links
 
-- [![LinkedIn](https://image.flaticon.com/icons/png/512/174/174857.png)](https://www.linkedin.com/in/adeelabid0)
-- [![Indeed](https://image.flaticon.com/icons/png/512/2111/2111463.png)](https://profile.indeed.com/?hl=en_PK&co=PK&from=gnav-jobsearch--indeedmobile&_ga=2.107084098.153712197.1709223873-342645179.1701187074)
-- [![Instagram](https://image.flaticon.com/icons/png/512/2111/2111468.png)](https://www.instagram.com/adeelabid84?igsh=MW9sMndpMXUxaHpwbw==)
-- [Portfolio](https://adeel-abid.vercel.app/)
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/adeelabid84?igsh=MW9sMndpMXUxaHpwbw==)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adeelabid0)
+[![Indeed](https://img.shields.io/badge/Indeed-003A9B?style=for-the-badge&logo=Indeed&logoColor=white)](https://profile.indeed.com/?hl=en_PK&co=PK&from=gnav-jobsearch--indeedmobile&_ga=2.107084098.153712197.1709223873-342645179.1701187074) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://adeel-abid.vercel.app/) 
+
 
 
 # My Stats
