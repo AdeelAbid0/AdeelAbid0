@@ -2,9 +2,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,react,nextjs,nodejs,express,html,css,firebase,bootstrap,c,cpp,figma,github,git,,materialui,mongodb,postman,powershell,tailwind,vercel,vite,vscode,primereact,formik,luxon&theme=dark)](https://skillicons.dev)
 
-## Social Links
-
-## 🌐 Socials:
+## 🌐 Social Links
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/adeelabid84?igsh=MW9sMndpMXUxaHpwbw==)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adeelabid0)
 [![Indeed](https://img.shields.io/badge/Indeed-003A9B?style=for-the-badge&logo=Indeed&logoColor=white)](https://profile.indeed.com/?hl=en_PK&co=PK&from=gnav-jobsearch--indeedmobile&_ga=2.107084098.153712197.1709223873-342645179.1701187074) 
