@@ -23,4 +23,4 @@
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/harismehboob142/github-readme-stats)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=AdeelAbid0&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Sikandar897&icon=0&color=0)](https://visitcount.itsvg.in)
