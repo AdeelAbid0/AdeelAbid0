@@ -1,8 +1,9 @@
 # My Skills
 
 [![My Skills](https://skillicons.dev/icons?i=js,react,nextjs,nodejs,express,html,css,firebase,bootstrap,c,cpp,figma,github,git,,materialui,mongodb,postman,powershell,tailwind,vercel,vite,vscode,primereact,formik,luxon&theme=dark)](https://skillicons.dev)
-### ⏳ WakaTime Stats
-![Adeel's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=adeelabid0)
+
+## ⏳ WakaTime Stats
+![Adeel's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=adeelabid0&theme=tokyonight&layout=compact)
 
 ## 🌐 Social Links
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/adeelabid84?igsh=MW9sMndpMXUxaHpwbw==)
