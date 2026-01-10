@@ -62,8 +62,7 @@
 
 
 
-## ⏳ WakaTime Stats
-![Adeel's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=adeelabid0&theme=tokyonight&layout=compact)
+![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=adeelabid0&layout=compact&cache_seconds=1800)
 
 ## 📊 GitHub Stats
 
