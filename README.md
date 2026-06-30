@@ -38,7 +38,7 @@
 
 ## 🧑‍💻 About Me
 
-- 🔭 Currently working on **Prodoo** (AI Recruitment SaaS) & **FixNGo** (Car Service Platform)
+- 🔭 Currently working as a **MERN Stack Developer** at **Innovative Solutions and development**
 - 🌱 3+ years experience in **React.js, Next.js, Redux Toolkit, REST APIs, WebSocket, SignalR**
 - 💡 Passionate about building real-world, high-impact products
 - 💳 Integrated **Stripe, PayPal & Authorize.net** payment gateways in production
